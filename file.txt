@@ -1,8 +1,7 @@
 Hello world!!
 change :->Login  done
-change 2: ->bug1 fix
+change 2: ->logout feature
 
-change 3: commit made by teammate on public for WI6
 
-change 4:->gug2 fix
+change 3: :- push to remote repo
 
